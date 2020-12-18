@@ -13,5 +13,3 @@ We are proud to sponsor these amazing maintainers and we encourage you to do the
 <a href="https://github.com/sebastianbergmann"><img src="https://avatars3.githubusercontent.com/u/25218?s=460&u=01bb70d9be43ded7572eb3862127ff281daa2725&v=4" style="width: 24px; border-radius: 50%" alt=""></a>
 <a href="https://github.com/sebastianbergmann"><b>Sebastian Bergmann</b></a> is the creator of phpunit. It's hard to imagine doing what we do every day without phpunit and the workflows that stem from it.
 ---
-
-
